@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "17e3f150ed229ffa260ef09cbfe464529a78adf3ff87b03b3e02f21628136f85"
+build_start_time: [1735470338, 284060000]
+build_end_time: [1735470342, 551694000]
+inputs:
+  "/Users/gummi/Documents/Xcode/GPT/GPT Extension/SafariWebExtensionHandler.swift": [1735466531, 157198372]

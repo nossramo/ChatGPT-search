@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'GPT' in project 'GPT'
+➜ Explicit dependency on target 'GPT Extension' in project 'GPT'
+Target 'GPT Extension' in project 'GPT' (no dependencies)

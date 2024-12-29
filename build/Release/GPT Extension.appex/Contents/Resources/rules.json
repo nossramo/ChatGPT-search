@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "priority": 1,
+    "action": {
+        "type": "redirect",
+        "redirect": {
+            "transform": {
+                "scheme": "https",
+                "host": "chat.openai.com",
+                "path": "/",
+                "query": "q=${searchTerms}"
+            }
+        }
+    },
+    "condition": {
+        "urlFilter": "||search.yahoo.com/search?*",
+        "resourceTypes": ["main_frame"]
+    }
+} 

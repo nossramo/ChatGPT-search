@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.Safari.web-extension</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>$(PRODUCT_MODULE_NAME).SafariWebExtensionHandler</string>
+		<key>SFSafariWebExtensionResources</key>
+		<array>
+			<dict>
+				<key>Path</key>
+				<string>Resources</string>
+			</dict>
+		</array>
+	</dict>
+	<key>SFSafariContentScript</key>
+	<array>
+		<dict>
+			<key>Script</key>
+			<string>content.js</string>
+		</dict>
+	</array>
+	<key>SFSafariWebExtensionConverterVersion</key>
+	<string>14.3</string>
+</dict>
+</plist>

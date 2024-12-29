@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GPT-master.swiftconstvalues",
+    "dependencies" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GPT-master.d",
+    "diagnostics" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GPT-master.dia",
+    "emit-module-dependencies" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GPT-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GPT-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GPT-master.swiftdeps"
+  },
+  "/Users/gummi/Documents/Xcode/GPT/GPT/AppDelegate.swift" : {
+    "index-unit-output-path" : "/GPT.build/Release/GPT.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/AppDelegate.o"
+  },
+  "/Users/gummi/Documents/Xcode/GPT/GPT/ViewController.swift" : {
+    "index-unit-output-path" : "/GPT.build/Release/GPT.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/ViewController.o"
+  },
+  "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/GPT.build/Release/GPT.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  }
+}

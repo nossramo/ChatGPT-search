@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/GPT Extension-master.swiftconstvalues",
+    "dependencies" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/GPT Extension-master.d",
+    "diagnostics" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/GPT Extension-master.dia",
+    "emit-module-dependencies" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/GPT Extension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/GPT Extension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/GPT Extension-master.swiftdeps"
+  },
+  "/Users/gummi/Documents/Xcode/GPT/GPT Extension/SafariWebExtensionHandler.swift" : {
+    "index-unit-output-path" : "/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/SafariWebExtensionHandler.o",
+    "llvm-bc" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/SafariWebExtensionHandler.bc",
+    "object" : "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT Extension.build/Objects-normal/x86_64/SafariWebExtensionHandler.o"
+  }
+}

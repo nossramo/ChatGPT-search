@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gummi/Documents/Xcode/GPT/build/Release/GPT Extension.appex/Contents/MacOS/GPT Extension'
+relocations:
+  - { offset: 0xC62ED, size: 0x8, addend: 0x0, symName: '_$s13GPT_Extension09SafariWebB7HandlerCMa', symObjAddr: 0xB4, symBinAddr: 0x100004A14, symSize: 0x20 }
+  - { offset: 0xC630C, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFs11AnyHashableV_Tg5', symObjAddr: 0xD4, symBinAddr: 0x100004A34, symSize: 0x30 }
+  - { offset: 0xC6344, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x104, symBinAddr: 0x100004A64, symSize: 0x64 }
+  - { offset: 0xC637C, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFs11AnyHashableV_Tg5', symObjAddr: 0x168, symBinAddr: 0x100004AC8, symSize: 0xC4 }
+  - { offset: 0xC63CA, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x22C, symBinAddr: 0x100004B8C, symSize: 0xE0 }
+  - { offset: 0xC665D, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0xE2C, symBinAddr: 0x10000578C, symSize: 0x3C }
+  - { offset: 0xC6671, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xE68, symBinAddr: 0x1000057C8, symSize: 0x40 }
+  - { offset: 0xC6685, size: 0x8, addend: 0x0, symName: '_$sS2Ss7CVarArg10FoundationWl', symObjAddr: 0xEEC, symBinAddr: 0x10000584C, symSize: 0x44 }
+  - { offset: 0xC6699, size: 0x8, addend: 0x0, symName: '_$ss11AnyHashableVWOh', symObjAddr: 0xFA4, symBinAddr: 0x100005904, symSize: 0x34 }
+  - { offset: 0xC66AD, size: 0x8, addend: 0x0, symName: '_$ss11AnyHashableVWOc', symObjAddr: 0xFD8, symBinAddr: 0x100005938, symSize: 0x3C }
+  - { offset: 0xC66C1, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x1014, symBinAddr: 0x100005974, symSize: 0x10 }
+  - { offset: 0xC673D, size: 0x8, addend: 0x0, symName: '_$s13GPT_Extension09SafariWebB7HandlerC12beginRequest4withySo18NSExtensionContextC_tFTo', symObjAddr: 0x0, symBinAddr: 0x100004960, symSize: 0x48 }
+  - { offset: 0xC6780, size: 0x8, addend: 0x0, symName: '_$s13GPT_Extension09SafariWebB7HandlerCACycfcTo', symObjAddr: 0x48, symBinAddr: 0x1000049A8, symSize: 0x3C }
+  - { offset: 0xC67B5, size: 0x8, addend: 0x0, symName: '_$s13GPT_Extension09SafariWebB7HandlerCfD', symObjAddr: 0x84, symBinAddr: 0x1000049E4, symSize: 0x30 }
+  - { offset: 0xC6800, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypSgTgm5Tf4g_n', symObjAddr: 0x30C, symBinAddr: 0x100004C6C, symSize: 0x11C }
+  - { offset: 0xC692F, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCs11AnyHashableV_ypTgm5Tf4g_n', symObjAddr: 0x428, symBinAddr: 0x100004D88, symSize: 0x114 }
+  - { offset: 0xC6C05, size: 0x8, addend: 0x0, symName: '_$s13GPT_Extension09SafariWebB7HandlerC12beginRequest4withySo18NSExtensionContextC_tFTf4nd_n', symObjAddr: 0x53C, symBinAddr: 0x100004E9C, symSize: 0x8F0 }
+...

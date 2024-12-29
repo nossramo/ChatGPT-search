@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "ChatGPT Redirect",
+        "description": "The name of the extension"
+    },
+    "extension_description": {
+        "message": "Redirects Yahoo searches to ChatGPT for better results",
+        "description": "The description of the extension"
+    }
+}

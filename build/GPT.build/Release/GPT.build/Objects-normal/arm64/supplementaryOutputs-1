@@ -1,0 +1,9 @@
+"/Users/gummi/Documents/Xcode/GPT/GPT/AppDelegate.swift":
+  dependencies: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT-master.d"
+  objc-header: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT-Swift.h"
+  swiftmodule: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT.swiftmodule"
+  const-values: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT-master.swiftconstvalues"
+  abi-baseline-json: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT.abi.json"
+  swiftsourceinfo: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT.swiftsourceinfo"
+  swiftdoc: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT.swiftdoc"
+  diagnostics: "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/Objects-normal/arm64/GPT-master.dia"

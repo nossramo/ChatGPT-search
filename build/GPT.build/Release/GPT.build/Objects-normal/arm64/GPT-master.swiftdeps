@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "69f0e76b92d102de93fc064215eaabddf99ce2298cc6ce5dd9090f64c54ccea9"
+build_start_time: [1735470342, 296429000]
+build_end_time: [1735470342, 553047000]
+inputs:
+  "/Users/gummi/Documents/Xcode/GPT/GPT/AppDelegate.swift": !dirty [1735469402, 530222370]
+  "/Users/gummi/Documents/Xcode/GPT/GPT/ViewController.swift": !dirty [1735466529, 786941350]
+  "/Users/gummi/Documents/Xcode/GPT/build/GPT.build/Release/GPT.build/DerivedSources/GeneratedAssetSymbols.swift": !dirty [1735470342, 287538588]
